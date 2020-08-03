@@ -1,2 +1,1 @@
 Test Git Guick Start demo
-Test Git Quit Start demo
